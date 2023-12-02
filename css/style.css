@@ -1,0 +1,29 @@
+html{
+    direction: rtl;
+}
+
+body{
+    font-family: 'Almarai', sans-serif;
+}
+
+.navbar{
+    /* border-bottom: solid 5px rgb(4, 74, 32); */
+    box-shadow: 0 1px 6px rgb(4, 74, 32);
+}
+
+.nav-link{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+header{
+    min-height: 100vh;
+    background: linear-gradient(#3293a6ab , #3293a6ab) , url(../images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/* #authors img{
+    margin-top: -70px;
+} */
